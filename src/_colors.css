@@ -12,10 +12,10 @@
 
 :root {
   --black: #000;
-  --near-black: #111;
+  --near-black: #231F20;
   --dark-gray:#333;
   --mid-gray:#555;
-  --gray: #777;
+  --gray: #E8E0E1;
   --silver: #999;
   --light-silver: #aaa;
   --moon-gray: #ccc;
@@ -76,5 +76,4 @@
   --washed-green:  #e8fdf5;
   --washed-yellow:  #fffceb;
   --washed-red:  #ffdfdf;
-
 }
